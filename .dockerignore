@@ -1,0 +1,12 @@
+.git
+.github
+.gradle
+.gradle-user
+.idea
+.local
+build
+out
+service_db*
+src/main/resources/keystore
+*.iml
+README.md
